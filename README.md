@@ -66,4 +66,4 @@ $ dotnet test
 [License]: https://www.gnu.org/licenses/gpl-3.0
 [License Badge]: https://img.shields.io/badge/License-GPLv3-blue.svg
 [Build]: https://github.com/JulianBru/Minecraft-RConClient/actions/workflows/build.yaml
-[Build Badge]: https://github.com/JulianBru/Minecraft-RConClient/actions/workflows/build.yaml/badge.svg
+[Build Badge]: https://github.com/JulianBru/Minecraft-RConClient/actions/workflows/build.yaml/badge.svg?branch=main
