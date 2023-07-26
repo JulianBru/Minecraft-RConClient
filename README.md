@@ -60,7 +60,7 @@ $ dotnet test
 
 ## Reference
 
-- https://wiki.vg/Rcon
+- https://developer.valvesoftware.com/wiki/Source_RCON_Protocol
 - https://github.com/itzg/docker-minecraft-server
 
 [License]: https://www.gnu.org/licenses/gpl-3.0
